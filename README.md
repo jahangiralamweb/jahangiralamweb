@@ -1,7 +1,8 @@
 ![   I am WordPress Web Designer & Top Web Developer, WooCommerce Expert.](  https://media.licdn.com/dms/image/D4E16AQGpUhQ7tkDgRw/profile-displaybackgroundimage-shrink_350_1400/0/1702832707899?e=1708560000&v=beta&t=jSaGtkP_bA67pp-J7pqMtizSv42gYvGIBLiI83cX1-8)
 
-### Hi there 👋, I'm Jahangir AlamArturs
-####    I am a WordPress Web Designer and top Web Developer, WooCommerce Expert.
+### Hi there 👋
+## I'm Jahangir Alam. 
+#### I am a WordPress Web Designer and top Web Developer, WooCommerce Expert.
 
   Hi, I am Jahangir Alam. I am a professional Web Designer and top Web Developer. In WordPress website design I have 3+ years of experience in creating all types of websites worldwide. The thought of using my passion to help others fills me with satisfaction. Also, I know other technologies commonly used in websites. For example, javascript, PHP, HTML5, and CSS3 if you want to build your dream website in this modern age of the digital world. Then I'm the guy, who can help you grow your business. You can feel free to contact me anytime.
 
