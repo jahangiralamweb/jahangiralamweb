@@ -1,9 +1,10 @@
 ![  I am WordPress Web Designer & Top Web Developer, WooCommerce Expert.]( https://media.licdn.com/dms/image/D4E16AQGpUhQ7tkDgRw/profile-displaybackgroundimage-shrink_350_1400/0/1702832707899?e=1708560000&v=beta&t=jSaGtkP_bA67pp-J7pqMtizSv42gYvGIBLiI83cX1-8)
-
+ 
 ### Hi there 👋,  I'm Jahangir Alam
 ####   I am a WordPress Web Designer and top Web Developer, WooCommerce Expert.
 
-Hi, I am Jahangir Alam. I am a professional Web Designer and top Web Developer. In WordPress website design I have 3+ years of experience in creating all types of websites worldwide. The thought of using my passion to help others fills me with satisfaction. Also, I know other technologies commonly used in websites. For example, javascript, PHP, HTML5, and CSS3 if you want to build your dream website in this modern age of the digital world. Then I'm the guy, who can help you grow your business. You can feel free to contact me anytime.
+
+ Hi, I am Jahangir Alam. I am a professional Web Designer and top Web Developer. In WordPress website design I have 3+ years of experience in creating all types of websites worldwide. The thought of using my passion to help others fills me with satisfaction. Also, I know other technologies commonly used in websites. For example, javascript, PHP, HTML5, and CSS3 if you want to build your dream website in this modern age of the digital world. Then I'm the guy, who can help you grow your business. You can feel free to contact me anytime.
 
 🎉My Service Includes:
 
@@ -41,8 +42,11 @@ Skills: HTML / CSS/ JS / PHP
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangiralamweb)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jahangiralamweb)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/jahangiralamweb/contributions?format=svg&private=false)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/jahangiralamweb/contributions?format=svg&private=true)  
 
- 
+![GitHub metrics](https://metrics.lecoq.io/jahangiralamweb)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=jahangiralamweb)  
+
