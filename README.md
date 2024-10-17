@@ -2,9 +2,9 @@
 
 # Hi there 👋
 ## I'm Jahangir Alam. 
-## I am a WordPress Web Designer and top Web Developer, WooCommerce Expert.
+## I am a professional WordPress Web Developer and Digital Marketer SEO and Ads Expert.
 
-  Hi, I am Jahangir Alam. I am a professional Web Designer and top Web Developer and digital Marketer SEO Expert. WordPress website design I have 7+ years of experience in creating all types of websites worldwide. The thought of using my passion to help others fills me with satisfaction. Also, I know other technologies commonly used in websites. For example, javascript, PHP, HTML5, and CSS3 if you want to build your dream website in this modern age of the digital world. Then I'm the guy, who can help you grow your business. You can feel free to contact me anytime.
+  Hi, I am Jahangir Alam. I am a professional WordPress Web Developer and Digital Marketer SEO and Ads Expert. WordPress website design I have 7+ years of experience in creating all types of websites worldwide. The thought of using my passion to help others fills me with satisfaction. Also, I know other technologies commonly used in websites. For example, javascript, PHP, HTML5, and CSS3 if you want to build your dream website in this modern age of the digital world. Then I'm the guy, who can help you grow your business. You can feel free to contact me anytime.
 
 🎉My Service Includes: ✅ WordPress
 ✅ThemeCustomization
@@ -40,7 +40,8 @@ Skills:  HTML / CSS/ JS / PHP
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
- (https://jahangiralamweb.github.io/personal_portfolio/)
+ (https://jahangiralambd.com/)
+ 
 
  
 
